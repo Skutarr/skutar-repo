@@ -1,0 +1,1 @@
+[{"race": "uruk", "location_X": 70, "location_Y": 60, "weapon": "Sword", "image": ["image1.jpg,image2.jpg,image3.jpg,"], "rank": "Captan"}, {"race": "ork", "location_X": 23, "location_Y": 6, "weapon": "Bow", "image": ["image4.jpg,image5.jpg,image6.jpg,"], "rank": "soldier"}]
