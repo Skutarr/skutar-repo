@@ -1,8 +1,10 @@
-def fun(num):
-    return num
+def fun(c):
+    new_arr=""
+    for x in c:
+        if x== " ":  continue
+        else: new_arr=new_arr+x
+    return new_arr
 
-strin="saaaaaaaaaaaaaaad"
-last=strin[-1]
-first=strin[0]
-new_str=last+strin[1:-2]+first
-print(new_str)
+var=-10
+var1=0
+print(fun("r  e  q"))
