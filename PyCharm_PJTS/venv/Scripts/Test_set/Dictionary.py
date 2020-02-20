@@ -1,3 +1,4 @@
+#------------------------------------------СЛОВАРИ-----------------
 import json
 
 filename = "enemies_list"
@@ -28,3 +29,4 @@ json_data=json.load(myfile)
 
 for enemy in json_data:
     print("Enemy Type - " + str(enemy['race']))
+

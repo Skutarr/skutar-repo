@@ -12,3 +12,8 @@ def create_record(first_item,second_item,third_item):
 # Module.aaa()
 # Module.ccc()
 aa()
+
+
+# если функция ничего не возвращает
+# используется оператор "pass"
+# результат такой функции вернется "NONE"
