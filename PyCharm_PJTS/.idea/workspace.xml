@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7d624d2-e03a-4c3d-a388-d4c245e9020f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/sk.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/CodeWars/isogram.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/CodeWars/isogram.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1XyGODvSKpAOFh756alerqiX4Rf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -105,9 +105,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/../WizardPJT/venv/bin/python" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Scripts/CodeWars" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Scripts/CodeWars/isogram.py" />
@@ -151,14 +151,15 @@
     <option name="LAST_COMMIT_MESSAGE" value="ex commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="588" y="214" width="800" height="677" key="#Inspections" timestamp="1582132337835">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="634" y="79" width="800" height="677" key="#Inspections" timestamp="1582180923411">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="634" y="79" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1582180923411" />
     <state x="588" y="214" width="800" height="677" key="#Inspections/67.27.1853.1053@67.27.1853.1053" timestamp="1582132337835" />
-    <state x="206" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582133660469">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582182810624">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1582111785715" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1582182810624" />
     <state x="206" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582133660469" />
     <state x="667" y="157" width="642" height="790" key="#runTest" timestamp="1582046436758">
       <screen x="67" y="27" width="1853" height="1053" />
@@ -168,30 +169,30 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="257" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1582097033101" />
-    <state x="676" y="174" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582131367173">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="421" y="95" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582182808780">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1582111783825" />
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1582182808780" />
     <state x="676" y="174" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1582131367173" />
-    <state width="1830" height="278" key="GridCell.Tab.0.bottom" timestamp="1582139897138">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1259" height="94" key="GridCell.Tab.0.bottom" timestamp="1582184621721">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582117009065" />
+    <state width="1259" height="94" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582184621721" />
     <state width="1830" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582139897138" />
-    <state width="1830" height="278" key="GridCell.Tab.0.center" timestamp="1582139897137">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1259" height="94" key="GridCell.Tab.0.center" timestamp="1582184621721">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="147" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582117009065" />
+    <state width="1259" height="94" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582184621721" />
     <state width="1830" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582139897137" />
-    <state width="1830" height="278" key="GridCell.Tab.0.left" timestamp="1582139897136">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1259" height="94" key="GridCell.Tab.0.left" timestamp="1582184621721">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="147" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582117009064" />
+    <state width="1259" height="94" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582184621721" />
     <state width="1830" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582139897136" />
-    <state width="1830" height="278" key="GridCell.Tab.0.right" timestamp="1582139897138">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1259" height="94" key="GridCell.Tab.0.right" timestamp="1582184621721">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582117009065" />
+    <state width="1259" height="94" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582184621721" />
     <state width="1830" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582139897138" />
     <state width="1830" height="344" key="GridCell.Tab.1.bottom" timestamp="1582139804434">
       <screen x="67" y="27" width="1853" height="1053" />
@@ -222,10 +223,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="341" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1582010924204" />
-    <state x="450" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582097010284">
+    <state x="450" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582184960162">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="450" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1582097010284" />
+    <state x="450" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1582184960162" />
     <state x="543" y="240" width="890" height="624" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1582133725909">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
