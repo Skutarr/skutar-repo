@@ -1,10 +1,11 @@
-def fun(c):
-    new_arr=""
-    for x in c:
-        if x== " ":  continue
-        else: new_arr=new_arr+x
-    return new_arr
+def fun(x):
+    counter=0
+    for z in x :
+        if z is True: counter+=1
+    return counter
 
-var=-10
-var1=0
-print(fun("r  e  q"))
+var=[True, True, True, False,
+     True, False, True, False]
+
+print(fun(var))
+
