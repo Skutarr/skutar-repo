@@ -1,7 +1,9 @@
-import re
-
 def fun(x):
-
+    newMatrix={}
+    for i in x:
+        if i!=" ":
+            newMatrix.append(i)
+        break
 
 var_str=("1 2 3 4 5")
 с={1,2,3,4,5}
