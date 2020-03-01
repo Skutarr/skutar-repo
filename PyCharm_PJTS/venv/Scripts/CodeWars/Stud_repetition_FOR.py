@@ -20,12 +20,12 @@ def fun (x):
     counterVas = 0
     counterPet = 0
     counterMash = 0
-    for i in range(len(students)):
-        if (students[i])['first_name']=='Вася':
+    for i in range(len(x)):
+        if (x[i])['first_name']=='Вася':
                 counterVas=counterVas+1
-        elif (students[i])['first_name']=='Петя':
+        elif (x[i])['first_name']=='Петя':
                 counterPet=counterPet+1
-        elif (students[i])['first_name'] == 'Маша':
+        elif (x[i])['first_name'] == 'Маша':
                 counterMash = counterMash + 1
     print("Вася: " + str(counterVas))
     print("Петя: " + str(counterPet))

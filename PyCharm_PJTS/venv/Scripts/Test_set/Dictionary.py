@@ -30,3 +30,5 @@ json_data=json.load(myfile)
 for enemy in json_data:
     print("Enemy Type - " + str(enemy['race']))
 
+#________________________________---- print({k:d[k] for k in l if k in d})
+

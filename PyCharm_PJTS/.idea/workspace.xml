@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a7d624d2-e03a-4c3d-a388-d4c245e9020f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/CodeWars/isogram.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/CodeWars/isogram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/CodeWars/Stud_repetition_FOR.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/CodeWars/Stud_repetition_FOR.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/Test_set/Dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/Test_set/Dictionary.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +32,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../venv" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Scripts/CodeWars/Male_Female_School_FOR.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.runTest">
@@ -110,7 +111,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Scripts/CodeWars/isogram.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Scripts/CodeWars/Male_Female_School_FOR.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +157,11 @@
     </state>
     <state x="634" y="79" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1582180923411" />
     <state x="588" y="214" width="800" height="677" key="#Inspections/67.27.1853.1053@67.27.1853.1053" timestamp="1582132337835" />
-    <state x="206" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582974526793">
+    <state x="206" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583051339015">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1582869573918" />
-    <state x="206" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582974526793" />
+    <state x="206" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583051339015" />
     <state x="648" y="250" width="674" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582976157935">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -174,31 +175,31 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="257" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1582097033101" />
-    <state x="421" y="95" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582869497300">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="676" y="174" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582986598998">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1582869497300" />
-    <state x="676" y="174" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1582131367173" />
-    <state width="1830" height="278" key="GridCell.Tab.0.bottom" timestamp="1582976816274">
+    <state x="676" y="174" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1582986598998" />
+    <state width="1830" height="278" key="GridCell.Tab.0.bottom" timestamp="1583056525747">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582870111978" />
-    <state width="1830" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582976816274" />
-    <state width="1830" height="278" key="GridCell.Tab.0.center" timestamp="1582976816273">
+    <state width="1830" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1583056525747" />
+    <state width="1830" height="278" key="GridCell.Tab.0.center" timestamp="1583056525745">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582870111978" />
-    <state width="1830" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582976816273" />
-    <state width="1830" height="278" key="GridCell.Tab.0.left" timestamp="1582976816271">
+    <state width="1830" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1583056525745" />
+    <state width="1830" height="278" key="GridCell.Tab.0.left" timestamp="1583056525745">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582870111978" />
-    <state width="1830" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582976816271" />
-    <state width="1830" height="278" key="GridCell.Tab.0.right" timestamp="1582976816274">
+    <state width="1830" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1583056525745" />
+    <state width="1830" height="278" key="GridCell.Tab.0.right" timestamp="1583056525746">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582870111978" />
-    <state width="1830" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582976816274" />
+    <state width="1830" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583056525746" />
     <state width="1830" height="344" key="GridCell.Tab.1.bottom" timestamp="1582823920265">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -228,10 +229,11 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="341" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1582010924204" />
-    <state x="300" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582201386868">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="501" y="27" width="683" height="806" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583054904426">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="300" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680@0.0.1280.680" timestamp="1582201386868" />
+    <state x="501" y="27" width="683" height="806" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1583054904426" />
     <state x="450" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582184960162">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
