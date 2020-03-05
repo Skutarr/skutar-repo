@@ -17,6 +17,7 @@ students = [
 # print(students['first_name'])
 # a=students[1]
 def fun (x):
+    """ Конский ХУЙ """
     counterVas = 0
     counterPet = 0
     counterMash = 0
@@ -27,7 +28,7 @@ def fun (x):
                 counterPet=counterPet+1
         elif (students[i])['first_name'] == 'Маша':
                 counterMash = counterMash + 1
-    print("Вася: " + str(counterVas))
+    print("Вася: Конский ХУЙ! Отпаравить в приемную Когогина")
     print("Петя: " + str(counterPet))
     print("Маша: " + str(counterMash))
 
