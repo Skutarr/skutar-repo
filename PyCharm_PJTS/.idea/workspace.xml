@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7d624d2-e03a-4c3d-a388-d4c245e9020f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/PyCharm_PJTS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyCharm_PJTS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/OpenCV/First.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/OpenCV/First.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/OpenCV/Picture_capture.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/OpenCV/Picture_capture.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Scripts/OpenCV/First.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Scripts/OpenCV/Picture_capture.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.runTest">
@@ -111,7 +112,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Scripts/OpenCV/First.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Scripts/OpenCV/Picture_capture.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +158,11 @@
     </state>
     <state x="634" y="79" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1582180923411" />
     <state x="588" y="214" width="800" height="677" key="#Inspections/67.27.1853.1053@67.27.1853.1053" timestamp="1582132337835" />
-    <state x="206" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583341997988">
+    <state x="206" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583427108644">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1582869573918" />
-    <state x="206" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583341997988" />
+    <state x="206" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583427108644" />
     <state x="648" y="250" width="674" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582976157935">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -175,31 +176,31 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="257" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1582097033101" />
-    <state x="676" y="174" width="424" height="484" key="FileChooserDialogImpl" timestamp="1583341611570">
+    <state x="676" y="174" width="424" height="484" key="FileChooserDialogImpl" timestamp="1583425844507">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1582869497300" />
-    <state x="676" y="174" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1583341611570" />
-    <state width="904" height="172" key="GridCell.Tab.0.bottom" timestamp="1583343894546">
+    <state x="676" y="174" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1583425844507" />
+    <state width="1830" height="172" key="GridCell.Tab.0.bottom" timestamp="1583430052130">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582870111978" />
-    <state width="904" height="172" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1583343894546" />
-    <state width="904" height="172" key="GridCell.Tab.0.center" timestamp="1583343894545">
+    <state width="1830" height="172" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1583430052130" />
+    <state width="1830" height="172" key="GridCell.Tab.0.center" timestamp="1583430052129">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582870111978" />
-    <state width="904" height="172" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1583343894545" />
-    <state width="904" height="172" key="GridCell.Tab.0.left" timestamp="1583343894545">
+    <state width="1830" height="172" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1583430052129" />
+    <state width="1830" height="172" key="GridCell.Tab.0.left" timestamp="1583430052128">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582870111978" />
-    <state width="904" height="172" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1583343894545" />
-    <state width="904" height="172" key="GridCell.Tab.0.right" timestamp="1583343894546">
+    <state width="1830" height="172" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1583430052128" />
+    <state width="1830" height="172" key="GridCell.Tab.0.right" timestamp="1583430052129">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582870111978" />
-    <state width="904" height="172" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583343894546" />
+    <state width="1830" height="172" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583430052129" />
     <state width="1830" height="344" key="GridCell.Tab.1.bottom" timestamp="1582823920265">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
